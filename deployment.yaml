@@ -1,0 +1,27 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: my-dotnet-app-deployment
+spec:
+  replicas: 3  # Adjust the number of replicas as needed
+  selector:
+    matchLabels:
+      app: my-dotnet-app
+  template:
+    metadata:
+      labels:
+        app: my-dotnet-app
+    spec:
+      containers:
+      - name: my-dotnet-app
+        image: shadabakhtar/my-dotnet-app:latest  # Update with your Docker image details
+        ports:
+        - containerPort: 80
+        resources:
+          requests:
+            memory: "64Mi"
+            cpu: "250m"
+          limits:
+            memory: "128Mi"
+            cpu: "500m"
+

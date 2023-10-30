@@ -1,0 +1,12 @@
+/home/azureuser/MyDotnetApp/MyDotnetApp/bin/Release/net5.0/publish/MyDotnetApp
+/home/azureuser/MyDotnetApp/MyDotnetApp/bin/Release/net5.0/publish/appsettings.Development.json
+/home/azureuser/MyDotnetApp/MyDotnetApp/bin/Release/net5.0/publish/appsettings.json
+/home/azureuser/MyDotnetApp/MyDotnetApp/bin/Release/net5.0/publish/MyDotnetApp.dll
+/home/azureuser/MyDotnetApp/MyDotnetApp/bin/Release/net5.0/publish/MyDotnetApp.deps.json
+/home/azureuser/MyDotnetApp/MyDotnetApp/bin/Release/net5.0/publish/MyDotnetApp.runtimeconfig.json
+/home/azureuser/MyDotnetApp/MyDotnetApp/bin/Release/net5.0/publish/MyDotnetApp.pdb
+/home/azureuser/MyDotnetApp/MyDotnetApp/bin/Release/net5.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/home/azureuser/MyDotnetApp/MyDotnetApp/bin/Release/net5.0/publish/Microsoft.OpenApi.dll
+/home/azureuser/MyDotnetApp/MyDotnetApp/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/azureuser/MyDotnetApp/MyDotnetApp/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/azureuser/MyDotnetApp/MyDotnetApp/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
